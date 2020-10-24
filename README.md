@@ -1,5 +1,5 @@
-# Discord-Bot-For-Starters
-This is the tutorial bot :)
+# Discord-Bot
+ini adalah codingan bot discord :)
 
 ## HANDLER SYLE
 
